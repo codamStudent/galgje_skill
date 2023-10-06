@@ -2,12 +2,12 @@
 
 ## Te raden woord
 
-|| |m|o| | | |
+|j| |m|o| |d| | |
 
 
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 
-|1|2|3|4|5|6|7|
+|1|2|3|4|5|6|7|8|
 
 ## Score
 ![gallow](./images/2.png)
@@ -19,3 +19,5 @@ ik zeg o
 o is goed
 ik zeg j
 ik zeg d
+j is goed
+d is goed
