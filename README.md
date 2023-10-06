@@ -2,7 +2,8 @@
 
 ## Te raden woord
 
-|| |m| | | | |
+|| |m|o| | | |
+
 
 |-|-|-|-|-|-|-|-|
 
@@ -15,3 +16,4 @@
 ik zeg m
 m is goed
 ik zeg o
+o is goed
