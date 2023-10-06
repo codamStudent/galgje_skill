@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|j| |m|o| |d| | |
+|j|e|m|o|e|d|e|r|
 
 
 |-|-|-|-|-|-|-|-|-|
@@ -23,3 +23,5 @@ j is goed
 d is goed
 ik zeg e
 ik zeg r
+e is goed
+r is goed
