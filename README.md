@@ -12,3 +12,9 @@
 ![gallow](./images/2.png)
 
 ## Beurten
+ik zeg m
+ik zeg o
+ik zeg r
+ik zeg d
+ik zeg e
+ik zeg j
