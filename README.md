@@ -17,3 +17,5 @@ ik zeg m
 m is goed
 ik zeg o
 o is goed
+ik zeg j
+ik zeg d
