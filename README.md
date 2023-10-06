@@ -13,8 +13,4 @@
 
 ## Beurten
 ik zeg m
-ik zeg o
-ik zeg r
-ik zeg d
-ik zeg e
-ik zeg j
+m is goed
