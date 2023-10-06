@@ -21,3 +21,5 @@ ik zeg j
 ik zeg d
 j is goed
 d is goed
+ik zeg e
+ik zeg r
